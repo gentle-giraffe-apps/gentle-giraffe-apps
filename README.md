@@ -1,64 +1,27 @@
-# Gentle Giraffe Apps 🦒
+# 🦒 Gentle Giraffe Apps
 
-Hi — I’m Jonathan, a senior-to-staff level iOS engineer with 15+ years of experience building reliable, user-focused mobile products. I care deeply about technical clarity, sustainable systems, and the people who build them.
-
-This organization hosts my open-source Swift packages, design systems, and engineering notes focused on modern iOS development with SwiftUI, Concurrency, and testable architecture.
+**Thoughtful, modern iOS engineering.**  
+SwiftUI · Concurrency · Testability · Design Systems
 
 ---
 
-## 🚀 Flagship Open-Source Projects
+## 🚀 Featured Projects
 
-### 🔹 GentleNetworking
-A modern, testable Swift networking layer built for async/await and production-grade reliability.  
-Focus: clean API design, dependency injection, unit testing, and real-world use cases.
-
+**GentleNetworking** — async/await networking you can test  
 → https://github.com/gentle-giraffe-apps/GentleNetworking
 
----
-
-### 🔹 SmartAsyncImage
-A smarter, faster `AsyncImage` for SwiftUI with built-in memory + disk caching, cancellation, and Swift 6 concurrency.
-
+**SmartAsyncImage** — fast, cached SwiftUI image loading  
 → https://github.com/gentle-giraffe-apps/SmartAsyncImage
 
----
-
-### 🔹 Gentle Engineering Notes
-A growing collection of technical articles and experiments on:
-- Swift Concurrency & AsyncSequence
-- Combine → async/await migrations
-- Testability & architecture
-- Design systems
-
+**Engineering Notes** — concise architecture & concurrency docs  
 → https://github.com/gentle-giraffe-apps/Gentle-Engineering-Notes
 
 ---
 
-## 🧭 What You’ll Find Here
-
-- ✅ Production-quality Swift packages  
-- ✅ Clean, testable architectures  
-- ✅ Demo apps that prioritize clarity over complexity  
-- ✅ Articles written from real-world experience  
-- ✅ A long-term focus on craft, maintainability, and human-centered engineering
+## 🎥 Overview Video  
+*(coming soon)*
 
 ---
 
-## 🌱 Currently Exploring
-
-- Speech-based learning experiences  
-- SwiftUI design systems & tokens  
-- Async algorithms & concurrency patterns  
-- Applying LLMs to developer tooling & education
-
----
-
-## 📫 Get in Touch
-
-- GitHub: https://github.com/gentle-giraffe-apps  
-- LinkedIn: https://www.linkedin.com/in/jonathandritchey/
-- Email: jrtchy@gmail.com
-
----
-
-*Thank you for taking the time to review my work — I care deeply about craft, clarity, and people.*
+## 📫 Contact  
+[LinkedIn](https://www.linkedin.com/in/jonathandritchey/) · jrtchy@gmail.com
