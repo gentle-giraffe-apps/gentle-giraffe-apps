@@ -1,7 +1,7 @@
 # 🦒 Gentle Giraffe Apps
 
 **Thoughtful, modern iOS engineering.**  
-SwiftUI · Concurrency · Testability · Design Systems
+SwiftUI · Concurrency · Architecture · Testability · Design Systems
 
 ---
 
