@@ -5,7 +5,7 @@ SwiftUI · Concurrency · Testability · Design Systems
 
 ---
 
-## 🚀 Featured Projects
+# 💾 Featured Projects
 
 **GentleNetworking** — async/await networking you can test  
 → https://github.com/gentle-giraffe-apps/GentleNetworking
@@ -13,7 +13,7 @@ SwiftUI · Concurrency · Testability · Design Systems
 **SmartAsyncImage** — fast, cached SwiftUI image loading  
 → https://github.com/gentle-giraffe-apps/SmartAsyncImage
 
-**Engineering Notes** — concise architecture & concurrency docs  
+**Engineering Notes** — concise docs on architecture, best practices, testing & research concepts
 → https://github.com/gentle-giraffe-apps/Gentle-Engineering-Notes
 
 ---
