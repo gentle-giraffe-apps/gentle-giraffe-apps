@@ -13,6 +13,8 @@ SwiftUI · Concurrency · Architecture · Testability · Design Systems
 
 💾 [**SmartAsyncImage**](https://github.com/gentle-giraffe-apps/SmartAsyncImage) — fast, cached SwiftUI image loading  
 
+💾 [**GentleDesignSystem**](https://github.com/gentle-giraffe-apps/GentleDesignSystem) — token-driven SwiftUI design system with built-in dark mode and Dynamic Type support
+
 ---
 
 ## 📫 Contact  
