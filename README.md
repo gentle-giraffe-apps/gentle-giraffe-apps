@@ -22,6 +22,6 @@ SwiftUI · Concurrency · Architecture · Testability · Design Systems
 
 ---
 
-## 👋 25-Second Introduction
+## 👋 Quick Introduction
 
-https://github.com/user-attachments/assets/101c9692-0703-4f6d-a8ce-6d929362d6a0
+https://github.com/user-attachments/assets/c6163d4a-b09f-4c5c-8471-c7a1c8e05fcd
