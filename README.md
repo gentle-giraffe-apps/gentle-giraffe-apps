@@ -19,3 +19,9 @@ SwiftUI · Concurrency · Architecture · Testability · Design Systems
 
 ## 📫 Contact  
 [LinkedIn](https://www.linkedin.com/in/jonathandritchey/) · jrtchy@gmail.com
+
+---
+
+## 👋 25-Second Introduction
+
+https://github.com/user-attachments/assets/101c9692-0703-4f6d-a8ce-6d929362d6a0
