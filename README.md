@@ -7,13 +7,17 @@ SwiftUI · Concurrency · Architecture · Testability · Design Systems
 
 ## Featured Projects
 
-📘 [**Gentle-Engineering-Notes**](https://github.com/gentle-giraffe-apps/Gentle-Engineering-Notes) — concise docs on architecture, best practices, testing & research concepts  
+📘 [**Gentle-Engineering-Notes**](https://github.com/gentle-giraffe-apps/Gentle-Engineering-Notes)  ·  concise docs on architecture, best practices, testing & research concepts
 
-💾 [**GentleNetworking**](https://github.com/gentle-giraffe-apps/GentleNetworking) — async/await networking you can test  
+📘 [**Gentle-Teamwork-Notes**](https://github.com/gentle-giraffe-apps/Gentle-Teamwork-Notes)  ·  practical notes on collaboration, mentorship, communication, and team health
 
-💾 [**SmartAsyncImage**](https://github.com/gentle-giraffe-apps/SmartAsyncImage) — fast, cached SwiftUI image loading  
+💾 [**GentleDesignShowcase**](https://github.com/gentle-giraffe-apps/GentleDesignShowcase)  ·  app demonstrating token-driven theming across reusable screen templates  
 
-💾 [**GentleDesignSystem**](https://github.com/gentle-giraffe-apps/GentleDesignSystem) — token-driven SwiftUI design system with built-in dark mode and Dynamic Type support
+💾 [**GentleNetworking**](https://github.com/gentle-giraffe-apps/GentleNetworking)  ·  async/await networking you can test  
+
+💾 [**SmartAsyncImage**](https://github.com/gentle-giraffe-apps/SmartAsyncImage)  ·  fast, cached SwiftUI image loading  
+
+💾 [**GentleDesignSystem**](https://github.com/gentle-giraffe-apps/GentleDesignSystem)  ·  token-driven SwiftUI design system with built-in dark mode and Dynamic Type support
 
 ---
 
