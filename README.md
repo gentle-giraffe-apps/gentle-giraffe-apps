@@ -15,8 +15,6 @@ SwiftUI · Concurrency · Architecture · Testability · Design Systems
 
 ## 💾 Projects & Libraries
 
-[**GentleDesignShowcase**](https://github.com/gentle-giraffe-apps/GentleDesignShowcase) · app demonstrating token-driven theming across reusable screen templates  
-
 [**GentleDesignSystem**](https://github.com/gentle-giraffe-apps/GentleDesignSystem) · token-driven SwiftUI design system with built-in dark mode and Dynamic Type support  
 
 [**GentleNetworking**](https://github.com/gentle-giraffe-apps/GentleNetworking) · async/await networking you can test  
