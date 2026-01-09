@@ -9,6 +9,8 @@ SwiftUI · Concurrency · Architecture · Testability · Design Systems
 
 [**Gentle-Engineering-Notes**](https://github.com/gentle-giraffe-apps/Gentle-Engineering-Notes) · concise docs on architecture, best practices, testing & research concepts  
 
+[**Gentle-Networking-Notes**](https://github.com/gentle-giraffe-apps/Gentle-Networking-Notes) · networking and API design patterns for mobile engineers  
+
 [**Gentle-Teamwork-Notes**](https://github.com/gentle-giraffe-apps/Gentle-Teamwork-Notes) · practical notes on collaboration, mentorship, communication, and team health  
 
 ---
