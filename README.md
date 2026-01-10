@@ -23,7 +23,7 @@ SwiftUI · Concurrency · Architecture · Testability · Design Systems
 
 [**GentleDesignSystem**](https://github.com/gentle-giraffe-apps/GentleDesignSystem) · token-driven SwiftUI design system with built-in dark mode and Dynamic Type support  
 
-[**GentleDesignShowcase**](https://github.com/gentle-giraffe-apps/GentleDesignShowcase) · curated showcase of modern iOS UI screens, interactions, and design-system patterns built with SwiftUI
+[**GentleDesignShowcase**](https://github.com/gentle-giraffe-apps/GentleDesignShowcase) · modern showcase iOS SwiftUI screens using GentleDesignSystem
 
 ---
 
