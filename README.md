@@ -15,7 +15,7 @@ SwiftUI · Concurrency · Architecture · Testability · Design Systems
 
 ---
 
-## 💾 Projects & Libraries
+## 🧩 Projects & Libraries
 
 [**GentleNetworking**](https://github.com/gentle-giraffe-apps/GentleNetworking) · async/await networking you can test  
 
