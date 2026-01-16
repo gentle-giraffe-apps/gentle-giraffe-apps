@@ -36,6 +36,5 @@ SwiftUI · Concurrency · Architecture · Testability · Design Systems
 
 https://github.com/user-attachments/assets/c6163d4a-b09f-4c5c-8471-c7a1c8e05fcd
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=gentle-giraffe-apps.profile)
-
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fgentle-giraffe-apps)
 
