@@ -1,11 +1,10 @@
 # 🦒 Gentle Giraffe Apps
 
-**Thoughtful, modern iOS engineering.**  
-SwiftUI · Concurrency · Architecture · Testability · Design Systems
+**Thoughtful, modern iOS engineering** · SwiftUI · Concurrency · Architecture · Testability · Design Systems
 
 ---
 
-## 📚 Libraries
+### 📚 Libraries
 
 [**GentleDesignSystem**](https://github.com/gentle-giraffe-apps/GentleDesignSystem) · token-driven SwiftUI design system with built-in dark mode and Dynamic Type support
 
@@ -15,7 +14,7 @@ SwiftUI · Concurrency · Architecture · Testability · Design Systems
 
 ---
 
-## 📘 Notes & Writing
+### 📘 Notes
 
 [**Gentle-Engineering-Notes**](https://gentle-giraffe-apps.github.io/Gentle-Engineering-Notes) · concise docs on architecture, best practices, testing & research concepts  
 
@@ -25,13 +24,13 @@ SwiftUI · Concurrency · Architecture · Testability · Design Systems
 
 ---
 
-## 🧩 Projects
+### 🧩 Projects
 
 [**GentleDesignShowcase**](https://github.com/gentle-giraffe-apps/GentleDesignShowcase) · modern showcase iOS SwiftUI screens using GentleDesignSystem
 
 ---
 
-## 📫 Contact  
+### 📫 Contact  
 [LinkedIn](https://www.linkedin.com/in/jonathandritchey/) · jrtchy@gmail.com
 
 ---
