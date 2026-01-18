@@ -29,11 +29,9 @@
 [**GentleDesignShowcase**](https://github.com/gentle-giraffe-apps/GentleDesignShowcase) · modern showcase iOS SwiftUI screens using GentleDesignSystem
 
 ⋯
- 
-### 📫 Contact  
-[LinkedIn](https://www.linkedin.com/in/jonathandritchey/) · jrtchy@gmail.com
 
-⋯
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-jonathandritchey-blue?logo=linkedin)](https://www.linkedin.com/in/jonathandritchey/)
+[![Email](https://img.shields.io/badge/Email-jrtchy%40gmail.com-informational?logo=gmail)](mailto:jrtchy@gmail.com)
  
 ### 👋 Introduction
 
