@@ -5,16 +5,6 @@ SwiftUI · Concurrency · Architecture · Testability · Design Systems
 
 ---
 
-## 📘 Notes & Writing
-
-[**Gentle-Engineering-Notes**](https://gentle-giraffe-apps.github.io/Gentle-Engineering-Notes) · concise docs on architecture, best practices, testing & research concepts  
-
-[**Gentle-Networking-Notes**](https://github.com/gentle-giraffe-apps/Gentle-Networking-Notes) · networking and API design patterns for mobile engineers  
-
-[**Gentle-Teamwork-Notes**](https://github.com/gentle-giraffe-apps/Gentle-Teamwork-Notes) · practical notes on collaboration, mentorship, communication, and team health  
-
----
-
 ## 📚 Libraries
 
 [**GentleDesignSystem**](https://github.com/gentle-giraffe-apps/GentleDesignSystem) · token-driven SwiftUI design system with built-in dark mode and Dynamic Type support
@@ -22,6 +12,16 @@ SwiftUI · Concurrency · Architecture · Testability · Design Systems
 [**GentleNetworking**](https://github.com/gentle-giraffe-apps/GentleNetworking) · async/await networking you can test  
 
 [**SmartAsyncImage**](https://github.com/gentle-giraffe-apps/SmartAsyncImage) · fast, cached SwiftUI image loading  
+
+---
+
+## 📘 Notes & Writing
+
+[**Gentle-Engineering-Notes**](https://gentle-giraffe-apps.github.io/Gentle-Engineering-Notes) · concise docs on architecture, best practices, testing & research concepts  
+
+[**Gentle-Networking-Notes**](https://github.com/gentle-giraffe-apps/Gentle-Networking-Notes) · networking and API design patterns for mobile engineers  
+
+[**Gentle-Teamwork-Notes**](https://github.com/gentle-giraffe-apps/Gentle-Teamwork-Notes) · practical notes on collaboration, mentorship, communication, and team health  
 
 ---
 
