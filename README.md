@@ -35,7 +35,7 @@ Projects are continuously validated via CI/CD with automated testing, coverage r
 ⋯
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jonathandritchey-blue?logo=linkedin)](https://www.linkedin.com/in/jonathandritchey/)
-[![Email](https://img.shields.io/badge/Email-jrtchy%40gmail.com-informational?logo=gmail)](mailto:jrtchy@gmail.com)
+[![Email](https://img.shields.io/badge/Email-jrtchy%40gmail.com-6e7781?logo=maildotru&logoColor=white)](mailto:jrtchy@gmail.com)
 
 ⋯
 
