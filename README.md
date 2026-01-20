@@ -16,9 +16,9 @@
  
 ### 📘 Notes
 
-[**Gentle-Engineering-Notes**](https://github.com/gentle-giraffe-apps/Gentle-Engineering-Notes/README.md) · concise docs on architecture, best practices, testing & research concepts  
+[**Gentle-Engineering-Notes**](https://github.com/gentle-giraffe-apps/blob/main/Gentle-Engineering-Notes/README.md) · concise docs on architecture, best practices, testing & research concepts  
 
-[**Gentle-Networking-Notes**](https://github.com/gentle-giraffe-apps/Gentle-Networking-Notes/README.md) · networking and API design patterns for mobile engineers  
+[**Gentle-Networking-Notes**](https://github.com/gentle-giraffe-apps/blob/main/Gentle-Networking-Notes/README.md) · networking and API design patterns for mobile engineers  
 
 ⋯
  
