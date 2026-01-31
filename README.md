@@ -2,6 +2,8 @@
 
 **Thoughtful, modern iOS engineering** · SwiftUI · Concurrency · Architecture · Testability · Design Systems
 
+**▶︎ [Resume (PDF)](https://github.com/gentle-giraffe-apps/Jonathan_Ritchey_Resume.pdf)** · Updated Jan 2026
+
 ---
 
 ### 📚 Libraries
