@@ -1,0 +1,54 @@
+# 🦒 Gentle Giraffe Apps
+
+###### [english](README.md) ··· ✓ **español 🇪🇸** ··· [português 🇧🇷](README.pt-BR.md)
+
+---
+
+**Ingeniería iOS moderna y cuidadosa** · SwiftUI · Concurrencia · Arquitectura · Testabilidad · Design Systems
+
+**▶︎ [CV (PDF)](Jonathan_Ritchey_Resume.pdf)** · Actualizado Ene 2026
+
+---
+
+### 📚 Librerías
+
+[**GentleDesignSystem**](https://github.com/gentle-giraffe-apps/GentleDesignSystem) · design system SwiftUI orientado a tokens, con soporte integrado para Dark Mode y Dynamic Type
+
+[**GentleNetworking**](https://github.com/gentle-giraffe-apps/GentleNetworking) · networking con async/await diseñado para facilitar la testabilidad
+
+[**SmartAsyncImage**](https://github.com/gentle-giraffe-apps/SmartAsyncImage) · carga rápida de imágenes SwiftUI con caché  
+
+<br/>
+ 
+### 📘 Notas
+
+[**Gentle-Engineering-Notes**](https://github.com/gentle-giraffe-apps/Gentle-Engineering-Notes/blob/main/README.md) · documentación concisa sobre arquitectura, buenas prácticas, testing y conceptos de investigación  
+
+[**Gentle-Networking-Notes**](https://github.com/gentle-giraffe-apps/Gentle-Networking-Notes/blob/main/README.md) · patrones de networking y diseño de APIs para ingenieros mobile  
+
+<br/>
+ 
+### 🧩 Proyectos
+
+[**GentleDesignShowcase**](https://github.com/gentle-giraffe-apps/GentleDesignShowcase) · showcase moderno de pantallas iOS en SwiftUI utilizando GentleDesignSystem  
+
+<br/>
+
+### 🧪 Calidad de Ingeniería
+
+Los proyectos se validan de forma continua mediante CI/CD, con testing automatizado, reportes de cobertura y análisis estático. Estos controles de calidad ayudan a garantizar la corrección y la mantenibilidad a largo plazo a medida que los sistemas evolucionan.
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-jonathandritchey-blue?logo=linkedin)](https://www.linkedin.com/in/jonathandritchey/)
+[![Email](https://img.shields.io/badge/Email-jrtchy%40gmail.com-6e7781?logo=maildotru&logoColor=white)](mailto:jrtchy@gmail.com)
+
+<br/>
+
+### 👋 Introducción
+
+[Ver video de introducción](https://github.com/user-attachments/assets/c6163d4a-b09f-4c5c-8471-c7a1c8e05fcd)
+
+
+![Visitantes](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fgentle-giraffe-apps)
+
