@@ -1,6 +1,6 @@
 # 🦒 Gentle Giraffe Apps
 
-###### [english](README.md) ··· ✓ **español 🇪🇸** ··· [português 🇧🇷](README.pt-BR.md)
+### [English](README.md) ··· **Español 🇪🇸** ··· [Português 🇧🇷](README.pt-BR.md)
 
 ---
 
