@@ -6,7 +6,7 @@
 
 **Thoughtful, modern iOS engineering** · SwiftUI · Concurrency · Architecture · Testability · Design Systems
 
-**▶︎ [Resume (PDF)](Jonathan_Ritchey_Resume.pdf)** · Updated Jan 2026
+**▶︎ [Resume (PDF)](Jonathan_Ritchey_Resume.pdf)** · Updated Feb 2026
 
 ---
 

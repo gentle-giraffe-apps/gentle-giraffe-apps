@@ -6,7 +6,7 @@
 
 **Ingeniería iOS moderna y cuidadosa** · SwiftUI · Concurrencia · Arquitectura · Testabilidad · Design Systems
 
-**▶︎ [CV (PDF)](Jonathan_Ritchey_Resume.pdf)** · Actualizado Ene 2026
+**▶︎ [CV (PDF)](Jonathan_Ritchey_Resume.pdf)** · Actualizado Feb 2026
 
 ---
 
