@@ -1,12 +1,16 @@
 # 🦒 Gentle Giraffe Apps
 
-### [English](README.md) ··· **Español 🇪🇸** ··· [Português 🇧🇷](README.pt-BR.md)
-
----
+<p align="right">
+  <sub>
+    <a href="README.md">English</a>&nbsp;&nbsp;&nbsp;&nbsp;
+    Español 🇪🇸&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="README.pt-BR.md">Português 🇧🇷</a>
+  </sub>
+</p>
 
 **Ingeniería iOS moderna y cuidadosa** · SwiftUI · Concurrencia · Arquitectura · Testabilidad · Design Systems
 
-**▶︎ [CV (PDF)](Jonathan_Ritchey_Resume.pdf)** · Actualizado Feb 2026
+**[CV (PDF)](Jonathan_Ritchey_Resume.pdf)** · Actualizado Feb 2026
 
 ---
 
