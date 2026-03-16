@@ -10,7 +10,7 @@
 
 **Thoughtful, modern iOS engineering** · SwiftUI · Concurrency · Architecture · Testability · Design Systems
 
-**[Resume (PDF)](Jonathan_Ritchey_Resume.pdf)** · Updated Feb 2026
+**[Resume (PDF)](Jonathan_Ritchey_Resume.pdf)** · Updated Mar 2026
 
 ---
 
@@ -29,6 +29,8 @@
 [**Gentle-Engineering-Notes**](https://github.com/gentle-giraffe-apps/Gentle-Engineering-Notes/blob/main/README.md) · concise docs on architecture, best practices, testing & research concepts  
 
 [**Gentle-Networking-Notes**](https://github.com/gentle-giraffe-apps/Gentle-Networking-Notes/blob/main/README.md) · networking and API design patterns for mobile engineers  
+
+[**Gentle-Teamwork-Notes**](https://github.com/gentle-giraffe-apps/Gentle-Teamwork-Notes/blob/main/README.md) · notes on teamwork, communication, and healthy software development.
 
 <br/>
  
