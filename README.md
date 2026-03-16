@@ -12,13 +12,13 @@
 
 **[Resume (PDF)](Jonathan_Ritchey_Resume.pdf)** · Updated Mar 2026
 
-<br/>
+---
 
 ### 🚀 Start Here
 
-[**GentleDesignSystem**](https://github.com/gentle-giraffe-apps/GentleDesignSystem) · SwiftUI design system
+• [**GentleDesignSystem**](https://github.com/gentle-giraffe-apps/GentleDesignSystem) · SwiftUI design system
 
-[**GentleNetworking**](https://github.com/gentle-giraffe-apps/GentleNetworking) · async networking
+• [**GentleNetworking**](https://github.com/gentle-giraffe-apps/GentleNetworking) · async networking
 
 ---
 
