@@ -10,7 +10,7 @@
 
 **Engenharia iOS moderna e cuidadosa** · SwiftUI · Concorrência · Arquitetura · Testabilidade · Design Systems
 
-**[Currículo (PDF)](Jonathan_Ritchey_Resume.pdf)** · Atualizado Fev 2026
+**[Currículo (PDF)](Jonathan_Ritchey_Resume.pdf)** · Atualizado Mar 2026
 
 ---
 
@@ -28,7 +28,9 @@
 
 [**Gentle-Engineering-Notes**](https://github.com/gentle-giraffe-apps/Gentle-Engineering-Notes/blob/main/README.md) · documentação concisa sobre arquitetura, boas práticas, testes e conceitos de pesquisa  
 
-[**Gentle-Networking-Notes**](https://github.com/gentle-giraffe-apps/Gentle-Networking-Notes/blob/main/README.md) · padrões de networking e design de APIs para engenheiros mobile  
+[**Gentle-Networking-Notes**](https://github.com/gentle-giraffe-apps/Gentle-Networking-Notes/blob/main/README.md) · padrões de networking e design de APIs para engenheiros mobile
+
+[**Gentle-Teamwork-Notes**](https://github.com/gentle-giraffe-apps/Gentle-Teamwork-Notes/blob/main/README.md) · notas sobre trabalho em equipe, comunicação e desenvolvimento de software saudável.
 
 <br/>
  
@@ -51,7 +53,7 @@ Os projetos são validados continuamente por meio de CI/CD, com testes automatiz
 
 ### 👋 Introdução
 
-[Assistir ao vídeo de introdução](https://github.com/user-attachments/assets/c6163d4a-b09f-4c5c-8471-c7a1c8e05fcd)
+https://github.com/user-attachments/assets/c6163d4a-b09f-4c5c-8471-c7a1c8e05fcd
 
 
 ![Visitantes](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fgentle-giraffe-apps)
