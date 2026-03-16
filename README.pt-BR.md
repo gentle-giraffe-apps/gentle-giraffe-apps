@@ -14,6 +14,14 @@
 
 ---
 
+### 🚀 Comece Aqui
+
+• [**GentleDesignSystem**](https://github.com/gentle-giraffe-apps/GentleDesignSystem) · design system SwiftUI
+
+• [**GentleNetworking**](https://github.com/gentle-giraffe-apps/GentleNetworking) · networking assíncrono
+
+---
+
 ### 📚 Bibliotecas
 
 [**GentleDesignSystem**](https://github.com/gentle-giraffe-apps/GentleDesignSystem) · design system SwiftUI orientado a tokens, com suporte integrado a Dark Mode e Dynamic Type
@@ -26,14 +34,20 @@
  
 ### 📘 Notas
 
-[**Gentle-Engineering-Notes**](https://github.com/gentle-giraffe-apps/Gentle-Engineering-Notes/blob/main/README.md) · documentação concisa sobre arquitetura, boas práticas, testes e conceitos de pesquisa  
+[**Gentle-Engineering-Notes**](https://github.com/gentle-giraffe-apps/Gentle-Engineering-Notes) · documentação concisa sobre arquitetura, boas práticas, testes e conceitos de pesquisa  
 
-[**Gentle-Networking-Notes**](https://github.com/gentle-giraffe-apps/Gentle-Networking-Notes/blob/main/README.md) · padrões de networking e design de APIs para engenheiros mobile
+[**Gentle-Networking-Notes**](https://github.com/gentle-giraffe-apps/Gentle-Networking-Notes) · padrões de networking e design de APIs para engenheiros mobile
 
-[**Gentle-Teamwork-Notes**](https://github.com/gentle-giraffe-apps/Gentle-Teamwork-Notes/blob/main/README.md) · notas sobre trabalho em equipe, comunicação e desenvolvimento de software saudável.
+[**Gentle-Teamwork-Notes**](https://github.com/gentle-giraffe-apps/Gentle-Teamwork-Notes) · notas sobre trabalho em equipe, comunicação e desenvolvimento de software saudável.
 
 <br/>
- 
+
+### 🔬 Labs
+
+[**Gentle-Labs**](https://github.com/gentle-giraffe-apps/Gentle-Labs) · laboratórios que exercitam habilidades fundamentais de engenharia iOS.
+
+<br/>
+
 ### 🧩 Projetos
 
 [**GentleDesignShowcase**](https://github.com/gentle-giraffe-apps/GentleDesignShowcase) · showcase moderno de telas iOS em SwiftUI utilizando o GentleDesignSystem  
