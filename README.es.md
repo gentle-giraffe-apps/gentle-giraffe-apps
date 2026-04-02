@@ -10,7 +10,7 @@
 
 **Ingeniería iOS moderna y cuidadosa** · SwiftUI · Concurrencia · Arquitectura · Testabilidad · Design Systems
 
-**[CV (PDF)](Jonathan_Ritchey_Resume.pdf)** · Actualizado Mar 2026
+**[CV (PDF)](Jonathan_Ritchey_Resume.pdf)** · Actualizado Abr 2026
 
 ---
 
@@ -62,6 +62,7 @@ Los proyectos se validan de forma continua mediante CI/CD, con testing automatiz
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jonathandritchey-blue?logo=linkedin)](https://www.linkedin.com/in/jonathandritchey/)
 [![Email](https://img.shields.io/badge/Email-jrtchy%40gmail.com-6e7781?logo=maildotru&logoColor=white)](mailto:jrtchy@gmail.com)
+![Last Commit](https://img.shields.io/github/last-commit/gentle-giraffe-apps/gentle-giraffe-apps?label=last%20activity)
 
 <br/>
 
