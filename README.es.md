@@ -62,7 +62,7 @@ Los proyectos se validan de forma continua mediante CI/CD, con testing automatiz
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jonathandritchey-blue?logo=linkedin)](https://www.linkedin.com/in/jonathandritchey/)
 [![Email](https://img.shields.io/badge/Email-jrtchy%40gmail.com-6e7781?logo=maildotru&logoColor=white)](mailto:jrtchy@gmail.com)
-![Last Commit](https://img.shields.io/github/last-commit/gentle-giraffe-apps/gentle-giraffe-apps?label=last%20activity)
+![Actividad reciente](https://img.shields.io/badge/%C3%BAltima%20actividad-ago-blue)
 
 <br/>
 
